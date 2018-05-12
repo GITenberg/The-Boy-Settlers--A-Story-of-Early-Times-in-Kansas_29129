@@ -1,0 +1,37 @@
+_repo: The-Boy-Settlers--A-Story-of-Early-Times-in-Kansas_29129
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Rogers, W. A. (William Allen)
+    alias: Rogers, William Allen
+    birthdate: 1854
+    deathdate: 1931
+    gutenberg_agent_id: '32413'
+    url: http://www.gutenberg.org/2009/agents/32413
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Brooks, Noah
+    birthdate: 1830
+    deathdate: 1903
+    gutenberg_agent_id: '568'
+    url: http://www.gutenberg.org/2009/agents/568
+    wikipedia: http://en.wikipedia.org/wiki/Noah_Brooks
+description: ''
+gutenberg_issued: '2009-06-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29129'
+  lccn: '12031404'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Kansas -- Juvenile fiction'
+- !lcsh 'Frontier and pioneer life -- Juvenile fiction'
+- !lcc 'PZ'
+title: 'The Boy Settlers: A Story of Early Times in Kansas'
+url: http://www.gutenberg.org/ebooks/29129
