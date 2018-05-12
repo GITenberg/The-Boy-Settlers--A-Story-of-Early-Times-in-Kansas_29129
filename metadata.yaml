@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/568
     wikipedia: http://en.wikipedia.org/wiki/Noah_Brooks
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29129#The-Boy-Settlers--A-Story-of-Early-Times-in-Kansas
 gutenberg_issued: '2009-06-15'
 gutenberg_type: Text
 identifiers:
